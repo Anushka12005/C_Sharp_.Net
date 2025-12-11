@@ -1,0 +1,12 @@
+D:\Dot Net\Windows Application\Assigment_No_1\Assigment_No_1\bin\Debug\Assigment_No_1.exe.config
+D:\Dot Net\Windows Application\Assigment_No_1\Assigment_No_1\bin\Debug\Assigment_No_1.exe
+D:\Dot Net\Windows Application\Assigment_No_1\Assigment_No_1\bin\Debug\Assigment_No_1.pdb
+D:\Dot Net\Windows Application\Assigment_No_1\Assigment_No_1\obj\Debug\Assigment_No_1.csproj.AssemblyReference.cache
+D:\Dot Net\Windows Application\Assigment_No_1\Assigment_No_1\obj\Debug\Assigment_No_1.frm_Login.resources
+D:\Dot Net\Windows Application\Assigment_No_1\Assigment_No_1\obj\Debug\Assigment_No_1.Properties.Resources.resources
+D:\Dot Net\Windows Application\Assigment_No_1\Assigment_No_1\obj\Debug\Assigment_No_1.csproj.GenerateResource.cache
+D:\Dot Net\Windows Application\Assigment_No_1\Assigment_No_1\obj\Debug\Assigment_No_1.csproj.CoreCompileInputs.cache
+D:\Dot Net\Windows Application\Assigment_No_1\Assigment_No_1\obj\Debug\Assigment_No_1.exe
+D:\Dot Net\Windows Application\Assigment_No_1\Assigment_No_1\obj\Debug\Assigment_No_1.pdb
+D:\Dot Net\Windows Application\Assigment_No_1\Assigment_No_1\obj\Debug\Assigment_No_1.frm_Add_Student_Details.resources
+D:\Dot Net\Windows Application\Assigment_No_1\Assigment_No_1\obj\Debug\Assigment_No_1.frm_Student_List.resources
